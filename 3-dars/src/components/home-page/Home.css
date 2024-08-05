@@ -1,0 +1,77 @@
+
+.banner{
+    margin: 0 auto;
+  max-width: 1540px
+}.imgs{
+    display: flex;
+    gap: 60px;
+}
+.title {
+    font-family: "Nunito", sans-serif;
+ 
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+text-align: left;
+width: 545px;
+height: 33px;
+top: 442px;
+left: 100px;
+gap: 0px;
+opacity: 0px;
+color: #00000099;
+
+}
+.find{
+    font-family: "Nunito", sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 64px;
+    text-align: left;
+    width: 577px;
+height: 173px;
+top: 237px;
+left: 100px;
+gap: 0px;
+opacity: 0px;
+
+}
+.banner-wrapper{
+    display: flex;
+    
+}
+.text-content {
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+.imgs{
+    position: absolute;
+    top: 600px;
+    left: 100px;
+}
+.shop{
+    padding: 14px;
+    width: 140px;
+    border: none;
+    background: #000000;
+    color: white;
+    border: 20px;
+    border-radius: 20px;
+    
+}
+.wrapper-box{
+    background-color: #222222;
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 20px;
+    width: 1540px;
+    margin-top: -10px;
+
+}
+.odam {
+    /* margin-left: 50px; */
+    width: 1540px;
+}

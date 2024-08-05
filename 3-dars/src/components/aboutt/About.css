@@ -1,0 +1,51 @@
+.about-box{
+    background: #000000;
+    display: flex;
+    gap: 500px;
+    margin-top: 100px;
+    border-radius: 30px;
+    padding: 20px 20px;
+    width: 1300px;
+    margin-left: 130px;
+
+}
+.about-box h1{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    /* text-align: left; */
+   font-family: "Nunito", sans-serif;
+   height: 94px;
+   gap: 0px;
+   opacity: 0px;
+   color: white;
+   margin-left: 100px;
+   width: 551px;
+height: 94px;
+gap: 0px;
+opacity: 0px;
+
+   
+}
+.email-btn{
+    display: block;
+margin-left: -300px;
+   
+}
+.address{
+    max-width: 349px;
+    padding: 10px 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    color: #00000066;
+
+}
+.subscribe {
+    width: 349px;
+    padding: 10px 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+
+}

@@ -1,0 +1,196 @@
+
+
+.container{
+    background: #04364A;
+    /* max-width: 1540px; */
+   
+
+
+}
+
+.Lest h1{
+    width: 602px;
+    height: 234px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Kodchasan;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 78px;
+    text-align: left;
+    font-family: "Kodchasan", sans-serif;
+        
+}
+.Lest span {
+   color: #64CCC5;
+   font-family: "Kodchasan", sans-serif;
+}
+.email {
+    display:  flex;
+    align-items: center;
+    font-family: "Nunito", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+
+}
+.tel {
+    display:  flex;
+    align-items: center;
+    font-family: "Nunito", sans-serif;
+    font-size: 24px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+}
+.location {
+    display:  flex;
+    align-items: center;
+    font-family: "Nunito", sans-serif;
+    font-size: 24px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+}
+.contact {
+    width:  631px;
+height: 750px;
+padding: 50px 35px 50px 35px;
+gap: 32px;
+border-radius:24px;
+opacity: 0px;
+background: #FFFEFE;
+
+
+}
+.Lest{
+    margin-top: 50px;
+}
+.contact_wrapper{
+    display: flex;
+    padding: 100px 100px;
+    gap :50px;
+}
+.h1{
+    color: #FFFFFF;
+
+}
+p{
+    color: #FFFFFF;
+
+}
+.btn1 {
+    display: flex;
+    gap: 30px;
+}
+.btn1 button {
+    padding: 10px 10px;
+    margin-top: 30px;
+    border-radius: 15px;
+    border: none;
+    border: 1px solid gray;
+}
+.btn1 button:hover {
+    background: #04364A;
+color: white;
+}
+.btn2 button {
+  
+    padding: 10px 10px;
+    margin-top: 30px;
+    border-radius: 15px;
+    border: none;
+    border: 1px solid gray;
+}
+.btn2 button:hover {
+    background: #04364A;
+color: white;
+}
+.other {
+    margin-left: 30px;
+}
+.h2{
+   color: #176B87;
+   font-family: "Nunito", sans-serif;
+
+}
+.name{
+    color: #176B87;
+    font-family: "Nunito", sans-serif;
+    font-size: 18px;
+    margin-top: 40px;
+}
+h5{
+    font-family: "Nunito", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 15px;
+    
+}
+hr{
+    margin-top: 10px;
+}
+.email {
+    font-family: "Nunito", sans-serif;
+ color: #CDCDCD;
+
+font-size: 16px;
+font-weight: 600;
+line-height: 16px;
+text-align: left;
+
+}
+.gmail {
+    font-family: "Nunito", sans-serif;
+    color: #959595;
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    
+}
+.hr{
+    margin-top: 10px;
+}
+.message{
+    font-family: "Nunito", sans-serif;
+
+font-size: 16px;
+font-weight: 400;
+line-height: 16px;
+text-align: left;
+color: #CDCDCD;
+
+}
+textarea{
+    width: 561px;
+    height: 138px;
+    gap: 0px;
+    border-radius: 12px 0px 0px 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    border: none;
+    border: 2px solid #CDCDCD
+}
+.btn3{
+    padding: 10px;
+    width: 560px;
+    margin-top: 24px;
+    border: none;
+    border-radius: 15px;
+    background: #04364A;
+color: white;
+}
+.h5{
+    color: #787878;
+
+}
+input{
+    border: none;
+    width: 560px;
+    padding: 10px;
+}

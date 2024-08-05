@@ -1,0 +1,47 @@
+.style {
+
+font-size: 40px;
+font-weight: 700;
+line-height: 57.6px;
+text-align: center;
+   font-family: "Nunito", sans-serif;
+   text-align: center;
+margin-left: 0px;
+margin-top: 50px;
+}
+.style-box1{
+    display:  flex;
+    gap: 50px;
+    margin-left: 45px;
+}
+.style-box2{
+    display:  flex;
+    gap: 50px;
+    margin-top: 30px;
+    margin-left: 45px;
+   
+}
+.style-box1 img{
+border-radius: 20px;
+margin-top: 50px;
+}
+.style-box2 img{
+border-radius: 20px;
+margin-top: 50px;
+
+}
+.cardss{
+  width: 1239px;
+  height: 866px;
+  top: 2417px;
+  left: 100px;
+  gap: 0px;
+  border-radius:30px ;
+  opacity: 0px;
+  margin-left: 150px;
+  background: #F0F0F0;
+margin-top: 100px;
+padding: 10px 0px;
+}
+
+    

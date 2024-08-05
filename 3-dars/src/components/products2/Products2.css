@@ -1,0 +1,75 @@
+/* Container for cards */
+.product-wrappers {
+    display: flex; /* Align cards horizontally */
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+    gap: 20px; /* Space between cards */
+    justify-content: center; /* Center align cards horizontally */
+    padding: 20px 20px; /* Add padding around the container */
+    margin-top: 70px;
+}
+
+/* Card styling */
+.product-cards {
+    width: 300px; /* Fixed width of the card */
+    border: 1px solid #ddd; /* Border around the card */
+    border-radius: 8px; /* Rounded corners */
+    overflow: hidden; /* Hide content that overflows the card */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Shadow for depth */
+    background-color: #fff; /* Background color of the card */
+    padding: 25px 25px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transitions for hover effects */
+}
+.price-brand{
+display: flex;
+gap: 10px;
+justify-content: center;
+}
+
+.product-cards img {
+    width: 100%; /* Full width of the card */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove any inline spacing */
+}
+
+.product-cards h1 {
+    font-size: 1.5em; /* Adjust the size of the heading */
+    margin: 10px 0; /* Space above and below the heading */
+    color: #333; /* Text color */
+}
+
+.product-cards p {
+    margin: 5px 0; /* Space above and below paragraphs */
+    color: #666; /* Text color */
+}
+
+.product-cards p:first-of-type {
+    font-weight: bold; /* Make the price stand out */
+}
+
+.product-cards:hover {
+    transform: scale(1.02); /* Slightly enlarge the card on hover */
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2); /* Increase shadow on hover */
+}
+.NEW{
+    margin-top: 100px;
+    text-align: center;
+font-size: 48px;
+font-weight: 700;
+line-height: 57.6px;
+text-align: center;
+font-family: "Nunito", sans-serif;
+
+}
+.view{
+    padding:10px 20px;
+    border-radius: 15px;
+    border: none;
+    border: 1px solid gray;
+    margin-left: 680px;
+    margin-top: 30px;
+    width: 150px;
+}
+.view:hover{
+background-color: bisque;
+color: black;
+}

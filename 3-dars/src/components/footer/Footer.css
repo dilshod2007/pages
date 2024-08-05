@@ -1,0 +1,24 @@
+.footer-p{
+    color: #00000099;
+   font-family: "Nunito", sans-serif;
+    
+}
+.footer h1 {
+   font-family: "Nunito", sans-serif;
+
+}
+.footer-wrapper{
+display: flex;
+gap: 100px;
+padding: 100px 100px;
+}
+.line{
+   margin-left: 100px; 
+  
+}
+.footer-teg{
+    display: flex;
+    gap: 300px;
+    justify-content: center;
+    margin-top: 50px;
+}
